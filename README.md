@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**D3vDammy/D3vDammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    🔭 I’m currently working on LightBridge   — a legal tech Web3 MMORPG blending African mythology and blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🌱 Currently diving deeper into 🗼Gameplay Ability System, advanced multiplayer, and server architecture
+
+    🤝 Open to collaborations on game development, AI systems and backend develpoment
+    
+    💬 Ask me anything about: Unreal Engine, C++, GAS, OffSec, Reverse Engineering, Blender, Networking
+    
+    📫 Reach me: omotayodami8@gmail.com
+
+    ⚡ Fun fact: I know how to exit Vim 😉
